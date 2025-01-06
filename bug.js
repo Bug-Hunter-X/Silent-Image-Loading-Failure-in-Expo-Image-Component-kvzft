@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that points to an image that is not accessible or has incorrect permissions.  The console might show a generic error message or no message at all, leading to a blank space where the image should be.  The problem is difficult to debug because the error isn't always explicit.
